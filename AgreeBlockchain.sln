@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processor", "Processor\Processor.csproj", "{13D5EAA9-9988-40DF-A29B-F60A8C5C7FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract", "Contract\Contract.csproj", "{F1F3EA07-0FA4-4526-A147-A20A59531195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCLI", "ClientCLI\ClientCLI.csproj", "{0131AAEE-88FC-4E63-A290-1700DA71E969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D5EAA9-9988-40DF-A29B-F60A8C5C7FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D5EAA9-9988-40DF-A29B-F60A8C5C7FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D5EAA9-9988-40DF-A29B-F60A8C5C7FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D5EAA9-9988-40DF-A29B-F60A8C5C7FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F3EA07-0FA4-4526-A147-A20A59531195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F3EA07-0FA4-4526-A147-A20A59531195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F3EA07-0FA4-4526-A147-A20A59531195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F3EA07-0FA4-4526-A147-A20A59531195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0131AAEE-88FC-4E63-A290-1700DA71E969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0131AAEE-88FC-4E63-A290-1700DA71E969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0131AAEE-88FC-4E63-A290-1700DA71E969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0131AAEE-88FC-4E63-A290-1700DA71E969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
